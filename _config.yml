@@ -1,9 +1,9 @@
-title: Poway Auto
-description: "An online program to find the best and most optimible route for traveling to Qualcomm"
+title: Rock Mice
+description: "Program"
 owner_name: Ahaan Vaidyanathan
 github_username: Ahaanv19
-github_repo: "QAV_Frontend" 
-baseurl: "/QAV_Frontend"
+github_repo: "Rock_Mice" 
+baseurl: "/Rock_Mice"
 future: true
 remote_theme: jekyll/minima
 minima:
