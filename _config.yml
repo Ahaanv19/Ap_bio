@@ -2,8 +2,8 @@ title: Rock Mice
 description: "Program"
 owner_name: Ahaan Vaidyanathan
 github_username: Ahaanv19
-github_repo: "Rock_Mice" 
-baseurl: "/Rock_Mice"
+github_repo: "Ap_bio" 
+baseurl: "/Ap_bio"
 future: true
 remote_theme: jekyll/minima
 minima:
@@ -17,6 +17,6 @@ plugins:
   - jekyll-remote-theme
 header_pages:
   - /search
-  - /about
+  - /work_cited
   - /blogs
   - /Readme4yml

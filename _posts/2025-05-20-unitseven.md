@@ -9,10 +9,89 @@ menu: nav/home.html
 ---
 
 
-# Unit 7 Evolution
 
-<table>
-    <tr>
-        <td><img src="{{site.baseurl}}/images/flag.jpeg" height="60" title="Home" alt=""></td>
-        <td><a href="{{site.baseurl}}/mice/">Rock Pocket Mice Natural Selection</a></td>   
-  </tr>
+
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    .navbar {
+      display: flex;
+      align-items: center;
+      background-color: #004d40;
+      padding: 10px 20px;
+      border-radius: 8px;
+    }
+
+    .navbar img {
+      height: 50px;
+      margin-right: 20px;
+    }
+
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+
+    .dropbtn {
+      background-color: #00796b;
+      color: white;
+      padding: 10px 15px;
+      font-size: 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: white;
+      min-width: 180px;
+      box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+      z-index: 1;
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    .dropdown-content a {
+      color: #004d40;
+      padding: 10px 14px;
+      text-decoration: none;
+      display: block;
+      border-bottom: 1px solid #eee;
+    }
+
+    .dropdown-content a:hover {
+      background-color: #f1f1f1;
+    }
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+      background-color: #00695c;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Unit 7: Evolution</h1>
+ 
+
+  <div class="navbar">
+  
+
+    <div class="dropdown">
+      <button class="dropbtn">Units</button>
+      <div class="dropdown-content">
+        <a href="{{site.baseurl}}/mice/">Rock Pocket Mice Lesson: Natural Selection</a>
+      </div>
+    </div>
+  </div>
+
+</body>
+
