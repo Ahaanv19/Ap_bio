@@ -59,7 +59,7 @@ menu: nav/home.html
 <section style="max-width: 700px; margin: 30px auto; padding: 20px; background-color: #fef8e7; border-radius: 8px; text-align: center; font-family: Arial, sans-serif;">
   <h2 style="color: #d2691e; margin-bottom: 15px;">AP Biology Curriculum Connections</h2>
   <p style="font-size: 16px; color: #333;">
-    This interactive lesson supports the following AP Biology Learning Objectives and Science Practices:
+    This lesson is made from the following AP Biology Learning Objectives and Science Practices required for AP Exam:
   </p>
   <ul style="list-style: none; padding-left: 0; font-size: 16px; color: #333;">
     <li><strong>Learning Objectives:</strong> IST-1.N, IST-1.O, IST-3.C, IST-3.D, IST-3.E, IST-3.G, IST-4.B, EVO-1.D</li>
