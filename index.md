@@ -33,7 +33,7 @@ menu: nav/home.html
 <body>
   <header>
     <h1>Rock Pocket Mouse: Evolution in Action</h1>
-    <p>A College Board-aligned interactive lesson on natural selection and adaptation</p>
+    <p>A College Board-aligned lesson on natural selection and adaptation</p>
     <a href="https://www.biointeractive.org/classroom-resources/making-fittest-natural-selection-and-adaptation" class="button-link">Video to Watch First</a>
   </header>
 
@@ -54,6 +54,46 @@ menu: nav/home.html
       <li><strong>Science Practices:</strong> SP1, SP2, SP6</li>
     </ul>
   </section>
+
+  <section>
+  <h2>What Is Natural Selection?</h2>
+  <p><strong>Natural selection</strong> is the process through which individuals with traits better suited to their environment are able to survive and reproduce more than others. Over time, this leads to the accumulation of advantageous traits in a population.</p>
+  
+  <ul>
+    <li>Variation exists in populations due to mutations and genetic recombination.</li>
+    <li>Not all individuals survive and reproduce equally—this is differential survival and reproduction.</li>
+    <li>Traits that improve survival and reproduction increase in frequency over generations.</li>
+    <li>The environment determines which traits are favorable. This makes natural selection a non-random process.</li>
+  </ul>
+
+  <p>This concept was first described by Charles Darwin and remains one of the fundamental principles of evolutionary biology. In the rock pocket mouse case, fur color variations affect visibility to predators, influencing survival based on the type of ground (lava rock vs. sand).</p>
+</section>
+
+
+  <div class="container">
+    <section>
+      <h2>Introduction</h2>
+      <div class="activity">
+        <p>
+          The rock pocket mouse (*Chaetodipus intermedius*) is a small desert rodent that has become a model organism for studying natural selection in real time. These mice live on both light-colored sand and dark volcanic rock in the Sonoran Desert.
+        </p>
+        <p>
+          Their fur color tends to match the substrate where they live: light-colored mice on sand and dark-colored mice on lava. This variation plays a key role in predator avoidance and fitness. This interactive activity will correspond with Rock Pocket Mice HMI Video. Follow along through the lesson, first watch the video, then the teacher will teach from the teacher guide as you follow along and particpate in these fun lessons.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Objectives & Materials</h2>
+      <div class="activity">
+        <ul>
+          <li>Analyze fur color distribution across time and habitat.</li>
+          <li>Construct data tables and graphs based on simulated population data.</li>
+          <li>Interpret the role of mutation and natural selection in phenotypic change.</li>
+        </ul>
+        <p><strong>Materials:</strong> You will not need any physical materials for this lesson, everything is included in the simulations and guides.</p>
+      </div>
+    </section>
 
   <div class="container">
 
@@ -156,9 +196,46 @@ menu: nav/home.html
       </div>
     </section>
 
+  <section>
+      <h2>9. Interpretation & Critical Thinking</h2>
+      <div class="activity">
+        <h3>Short Response Prompts</h3>
+        <ol>
+          <li>Why does fur color influence rock pocket mouse fitness?</li>
+          <li>Why did the dark-colored mice not increase in frequency at Location A?</li>
+          <li>Describe changes at Location B and predict what the population will look like in 100 years.</li>
+          <li>How is mutation a random process, but natural selection non-random?</li>
+        </ol>
+        <textarea placeholder="Write your response here..."></textarea>
+      </div>
+    </section>
+
+
+  <section>
+  <h2>Multiple Choice Questions</h2>
+  <ol>
+    <li>
+      Which of the following best describes the process of natural selection?<br/>
+      <strong>A.</strong> Traits acquired during an organism’s lifetime are inherited<br/>
+      <strong>B.</strong> All individuals in a population have equal chances of survival<br/>
+      <strong>C.</strong> Individuals with favorable traits reproduce more successfully<br/>
+      <strong>D.</strong> Evolution occurs randomly and independently of the environment<br/>
+      <br/><em><strong>Correct Answer: C</strong></em>
+    </li>
+    <li>
+      In the rock pocket mouse population, which of the following would most likely cause an increase in dark-colored fur?<br/>
+      <strong>A.</strong> Decrease in predators<br/>
+      <strong>B.</strong> Increased competition for food<br/>
+      <strong>C.</strong> Mutation causing albinism<br/>
+      <strong>D.</strong> Expansion of lava rock habitat<br/>
+      <br/><em><strong>Correct Answer: D</strong></em>
+    </li>
+  </ol>
+</section>
+
   </div>
 
-  <footer>© 2025 Interactive Evolution | Based on HHMI BioInteractive Curriculum</footer>
+  <footer>© 2025 AP Bio Prep | Based on HHMI BioInteractive Curriculum</footer>
 
   <script>
     // 1. Mutation & Fur Color Generator
@@ -449,7 +526,5 @@ menu: nav/home.html
     }
 
   </script>
-</body>
-</html>
 
 
